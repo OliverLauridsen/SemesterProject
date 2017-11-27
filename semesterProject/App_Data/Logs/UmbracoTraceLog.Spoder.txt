@@ -209,3 +209,15 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
  2017-11-27 14:19:47,653 [P15732/D3/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Simo608e@edu.eal.dk from IP address ::1
  2017-11-27 14:19:48,410 [P15732/D3/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Simo608e@edu.eal.dk from IP address ::1
  2017-11-27 14:19:48,602 [P15732/D3/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:26:47,208 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:26:47,210 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-11-27 14:26:47,210 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.Deploy.IServiceConnector
+ 2017-11-27 14:26:47,213 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.Deploy.IServiceConnector (took 3ms)
+ 2017-11-27 14:26:48,914 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:26:48,915 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:26:48,915 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2017-11-27 14:26:48,916 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 0ms)
+ 2017-11-27 14:26:49,006 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:26:49,007 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-11-27 14:26:49,008 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolving umbraco.cms.businesslogic.macro.IMacroEngine
+ 2017-11-27 14:26:49,009 [P15732/D3/T46] INFO  Umbraco.Core.PluginManager - Resolved umbraco.cms.businesslogic.macro.IMacroEngine (took 1ms)
