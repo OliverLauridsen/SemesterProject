@@ -137,3 +137,12 @@ C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\bi
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.csproj.CoreCompileInputs.cache
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.dll
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.pdb
+C:\Websites\SemesterProject2\semesterProject\bin\bin\AutoMapper.Net4.dll
+C:\Websites\SemesterProject2\semesterProject\bin\semesterProject.dll.config
+C:\Websites\SemesterProject2\semesterProject\bin\semesterProject.dll
+C:\Websites\SemesterProject2\semesterProject\bin\semesterProject.pdb
+C:\Websites\SemesterProject2\semesterProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.csprojResolveAssemblyReference.cache
+C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.csproj.CoreCompileInputs.cache
+C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.dll
+C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.pdb
