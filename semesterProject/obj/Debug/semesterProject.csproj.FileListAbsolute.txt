@@ -137,3 +137,4 @@ C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\bi
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.csproj.CoreCompileInputs.cache
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.dll
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.pdb
+C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.csprojResolveAssemblyReference.cache
