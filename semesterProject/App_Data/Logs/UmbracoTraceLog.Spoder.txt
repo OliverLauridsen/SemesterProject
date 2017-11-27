@@ -1,0 +1,211 @@
+﻿ 2017-11-27 14:07:56,896 [P15732/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.6 application starting on SPODER
+ 2017-11-27 14:07:57,006 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2017-11-27 14:07:57,058 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 51ms)
+ 2017-11-27 14:07:57,278 [P15732/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2017-11-27 14:07:57,282 [P15732/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2017-11-27 14:07:57,291 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:07:58,482 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1190ms)
+ 2017-11-27 14:07:58,482 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2017-11-27 14:07:58,509 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 26ms)
+ 2017-11-27 14:07:58,576 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:07:58,578 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-11-27 14:07:58,579 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2017-11-27 14:07:58,606 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 26ms)
+ 2017-11-27 14:07:58,608 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:07:58,609 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:07:58,609 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2017-11-27 14:07:58,642 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 32ms)
+ 2017-11-27 14:07:58,722 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:07:58,723 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-11-27 14:07:58,724 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2017-11-27 14:07:58,766 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 41ms)
+ 2017-11-27 14:07:58,770 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:07:58,771 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:07:58,772 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2017-11-27 14:07:58,797 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 24ms)
+ 2017-11-27 14:08:03,743 [P15732/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2017-11-27 14:08:04,916 [P15732/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2017-11-27 14:08:05,200 [P15732/D2/T1] WARN  Umbraco.Core.Sync.DatabaseServerMessenger - No last synced Id found, this generally means this is a new server/install. The server will build its caches and indexes, and then adjust its last synced Id to the latest found in the database and maintain cache updates based on that Id.
+ 2017-11-27 14:08:05,428 [P15732/D2/T1] INFO  umbraco.content - Load Xml from file...
+ 2017-11-27 14:08:05,430 [P15732/D2/T1] WARN  umbraco.content - Failed to load Xml, file does not exist.
+ 2017-11-27 14:08:05,432 [P15732/D2/T1] INFO  umbraco.content - Loading content from database...
+ 2017-11-27 14:08:07,680 [P15732/D2/T1] INFO  umbraco.content - Loading content from database...
+ 2017-11-27 14:08:08,178 [P15732/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2017-11-27 14:08:08,180 [P15732/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2017-11-27 14:08:08,203 [P15732/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 11545ms)
+ 2017-11-27 14:08:08,206 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalMemberIndexer, NodeId=-1
+ 2017-11-27 14:08:08,466 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - Start data queries - member, Provider=InternalMemberIndexer, NodeId=-1
+ 2017-11-27 14:08:08,993 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - End data queries - member, took 526ms, Provider=InternalMemberIndexer, NodeId=-1
+ 2017-11-27 14:08:08,997 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalIndexer, NodeId=-1
+ 2017-11-27 14:08:09,041 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - Start data queries - content, Provider=InternalIndexer, NodeId=-1
+ 2017-11-27 14:08:10,154 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:08:10,154 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:08:10,155 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2017-11-27 14:08:10,183 [P15732/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 27ms)
+ 2017-11-27 14:08:10,951 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - End data queries - content, took 1909ms, Provider=InternalIndexer, NodeId=-1
+ 2017-11-27 14:08:10,952 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - Start data queries - media, Provider=InternalIndexer, NodeId=-1
+ 2017-11-27 14:08:11,828 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - End data queries - media, took 871ms, Provider=InternalIndexer, NodeId=-1
+ 2017-11-27 14:08:11,829 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=ExternalIndexer, NodeId=-1
+ 2017-11-27 14:08:11,877 [P15732/D2/T7] INFO  umbraco.content - Save Xml to file...
+ 2017-11-27 14:08:11,895 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - Start data queries - content, Provider=ExternalIndexer, NodeId=-1
+ 2017-11-27 14:08:11,939 [P15732/D2/T7] INFO  umbraco.content - Saved Xml to file.
+ 2017-11-27 14:08:12,103 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - End data queries - content, took 206ms, Provider=ExternalIndexer, NodeId=-1
+ 2017-11-27 14:08:12,104 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - Start data queries - media, Provider=ExternalIndexer, NodeId=-1
+ 2017-11-27 14:08:12,318 [P15732/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - PerformIndexAll - End data queries - media, took 206ms, Provider=ExternalIndexer, NodeId=-1
+ 2017-11-27 14:08:13,111 [P15732/D2/T15] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:3140/umbraco (UmbracoModule request)
+ 2017-11-27 14:08:28,847 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:08:28,848 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-11-27 14:08:28,848 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.Deploy.IServiceConnector
+ 2017-11-27 14:08:28,870 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.Deploy.IServiceConnector (took 22ms)
+ 2017-11-27 14:08:43,045 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:08:43,046 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:08:43,046 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2017-11-27 14:08:43,074 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper (took 27ms)
+ 2017-11-27 14:08:43,674 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:08:43,675 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:08:43,675 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2017-11-27 14:08:43,676 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 0ms)
+ 2017-11-27 14:08:43,774 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:08:43,775 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:08:43,776 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving umbraco.cms.businesslogic.macro.IMacroEngine
+ 2017-11-27 14:08:43,819 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved umbraco.cms.businesslogic.macro.IMacroEngine (took 42ms)
+ 2017-11-27 14:09:14,138 [P15732/D2/T7] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-11-26 14:09:14
+ 2017-11-27 14:09:26,445 [P15732/D2/T7] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:09:26,446 [P15732/D2/T7] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:09:26,446 [P15732/D2/T7] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2017-11-27 14:09:26,471 [P15732/D2/T7] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 24ms)
+ 2017-11-27 14:09:26,761 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:09:26,762 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:09:26,762 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IAction
+ 2017-11-27 14:09:26,809 [P15732/D2/T15] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IAction (took 46ms)
+ 2017-11-27 14:12:29,603 [P15732/D2/T3] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:32,075 [P15732/D2/T13] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:32,382 [P15732/D2/T18] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:32,611 [P15732/D2/T3] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:32,816 [P15732/D2/T30] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:32,979 [P15732/D2/T31] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:33,177 [P15732/D2/T16] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:33,345 [P15732/D2/T13] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:33,531 [P15732/D2/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:35,972 [P15732/D2/T16] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:12:36,002 [P15732/D2/T18] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:14:12,945 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Terminating
+ 2017-11-27 14:14:12,946 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Waiting for tasks to complete
+ 2017-11-27 14:14:12,966 [P15732/D2/T31] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Tasks completed, terminated
+ 2017-11-27 14:14:12,976 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Terminating
+ 2017-11-27 14:14:12,977 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Waiting for tasks to complete
+ 2017-11-27 14:14:12,977 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Terminating
+ 2017-11-27 14:14:12,978 [P15732/D2/T34] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Tasks completed, terminated
+ 2017-11-27 14:14:12,978 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Waiting for tasks to complete
+ 2017-11-27 14:14:12,982 [P15732/D2/T34] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Tasks completed, terminated
+ 2017-11-27 14:14:13,009 [P15732/D2/T28] INFO  Umbraco.Core.MainDom - Stopping...
+ 2017-11-27 14:14:13,032 [P15732/D2/T28] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2017-11-27 14:14:13,033 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Terminating
+ 2017-11-27 14:14:13,034 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Waiting for tasks to complete
+ 2017-11-27 14:14:13,034 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Terminating
+ 2017-11-27 14:14:13,035 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Waiting for tasks to complete
+ 2017-11-27 14:14:13,035 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Terminating
+ 2017-11-27 14:14:13,036 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Waiting for tasks to complete
+ 2017-11-27 14:14:13,036 [P15732/D2/T28] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Tasks completed, terminated
+ 2017-11-27 14:14:13,038 [P15732/D2/T32] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Tasks completed, terminated
+ 2017-11-27 14:14:13,039 [P15732/D2/T32] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Tasks completed, terminated
+ 2017-11-27 14:14:43,074 [P15732/D2/T35] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: ConfigurationChange
+
+_shutDownMessage=Change in App_Offline.htm
+HostingEnvironment initiated shutdown
+Change in App_Offline.htm
+Change in App_Offline.htm
+HostingEnvironment caused shutdown
+
+_shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   at System.Environment.get_StackTrace()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   at System.Web.HttpRuntime.ShutdownAppDomain(String stackTrace)
+   at System.Web.HttpRuntime.OnAppOfflineFileChange(Object sender, FileChangeEvent e)
+   at System.Web.DirectoryMonitor.FireNotifications()
+   at System.Web.Util.WorkItem.CallCallbackWithAssert(WorkItemCallback callback)
+   at System.Web.Util.WorkItem.OnQueueUserWorkItemCompletion(Object state)
+   at System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+ 2017-11-27 14:17:34,597 [P15732/D3/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.6 application starting on SPODER
+ 2017-11-27 14:17:34,686 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2017-11-27 14:17:34,716 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 30ms)
+ 2017-11-27 14:17:34,859 [P15732/D3/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2017-11-27 14:17:34,864 [P15732/D3/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2017-11-27 14:17:34,870 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:36,269 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1398ms)
+ 2017-11-27 14:17:36,269 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2017-11-27 14:17:36,273 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 3ms)
+ 2017-11-27 14:17:36,480 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:36,482 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 2ms)
+ 2017-11-27 14:17:36,482 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2017-11-27 14:17:36,483 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2017-11-27 14:17:36,484 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:36,485 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:17:36,485 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2017-11-27 14:17:36,490 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 4ms)
+ 2017-11-27 14:17:36,536 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:36,537 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:17:36,538 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2017-11-27 14:17:36,539 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 1ms)
+ 2017-11-27 14:17:36,541 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:36,541 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:17:36,542 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2017-11-27 14:17:36,545 [P15732/D3/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 2ms)
+ 2017-11-27 14:17:41,480 [P15732/D3/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2017-11-27 14:17:42,503 [P15732/D3/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2017-11-27 14:17:43,470 [P15732/D3/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2017-11-27 14:17:43,942 [P15732/D3/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2017-11-27 14:17:43,966 [P15732/D3/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 9668ms)
+ 2017-11-27 14:17:48,784 [P15732/D3/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:3140/umbraco (UmbracoModule request)
+ 2017-11-27 14:17:50,824 [P15732/D3/T8] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:50,825 [P15732/D3/T8] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:17:50,826 [P15732/D3/T8] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2017-11-27 14:17:50,828 [P15732/D3/T8] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 2ms)
+ 2017-11-27 14:17:51,610 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:51,611 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-11-27 14:17:51,612 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IAction
+ 2017-11-27 14:17:51,614 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IAction (took 2ms)
+ 2017-11-27 14:17:51,738 [P15732/D3/T33] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:17:51,917 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:17:51,918 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-11-27 14:17:51,919 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2017-11-27 14:17:51,922 [P15732/D3/T34] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 3ms)
+ 2017-11-27 14:18:02,211 [P15732/D3/T34] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:03,795 [P15732/D3/T33] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:04,305 [P15732/D3/T37] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:04,488 [P15732/D3/T32] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:04,636 [P15732/D3/T34] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:04,880 [P15732/D3/T30] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:05,039 [P15732/D3/T33] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:05,201 [P15732/D3/T37] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:05,343 [P15732/D3/T30] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:05,460 [P15732/D3/T33] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:05,697 [P15732/D3/T26] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:06,476 [P15732/D3/T8] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:06,743 [P15732/D3/T34] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:07,038 [P15732/D3/T32] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:07,510 [P15732/D3/T33] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:07,759 [P15732/D3/T8] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:08,069 [P15732/D3/T30] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:08,656 [P15732/D3/T26] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:10,094 [P15732/D3/T8] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:10,566 [P15732/D3/T32] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:10,940 [P15732/D3/T26] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:11,305 [P15732/D3/T37] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:11,641 [P15732/D3/T34] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:18:50,262 [P15732/D3/T27] INFO  umbraco.content - Load Xml from file...
+ 2017-11-27 14:18:50,268 [P15732/D3/T27] INFO  umbraco.content - Loaded Xml from file.
+ 2017-11-27 14:18:50,308 [P15732/D3/T27] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-11-27 14:18:50,309 [P15732/D3/T27] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-11-27 14:18:50,310 [P15732/D3/T27] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2017-11-27 14:18:50,311 [P15732/D3/T27] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper (took 1ms)
+ 2017-11-27 14:18:50,442 [P15732/D3/T32] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-11-26 14:18:50
+ 2017-11-27 14:19:47,653 [P15732/D3/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:19:48,410 [P15732/D3/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Simo608e@edu.eal.dk from IP address ::1
+ 2017-11-27 14:19:48,602 [P15732/D3/T27] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Simo608e@edu.eal.dk from IP address ::1
