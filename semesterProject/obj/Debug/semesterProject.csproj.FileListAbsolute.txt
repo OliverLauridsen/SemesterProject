@@ -137,6 +137,7 @@ C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\bi
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.csproj.CoreCompileInputs.cache
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.dll
 C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.pdb
+<<<<<<< HEAD
 C:\Websites\SemesterProject2\semesterProject\bin\bin\AutoMapper.Net4.dll
 C:\Websites\SemesterProject2\semesterProject\bin\semesterProject.dll.config
 C:\Websites\SemesterProject2\semesterProject\bin\semesterProject.dll
@@ -146,3 +147,6 @@ C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.csprojRes
 C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.csproj.CoreCompileInputs.cache
 C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.dll
 C:\Websites\SemesterProject2\semesterProject\obj\Debug\semesterProject.pdb
+=======
+C:\Users\Oliver\Documents\EAL\SemesterProject\semesterProject\semesterProject\obj\Debug\semesterProject.csprojResolveAssemblyReference.cache
+>>>>>>> e549d9424d34557be2ac31352590bbe01b075eea
